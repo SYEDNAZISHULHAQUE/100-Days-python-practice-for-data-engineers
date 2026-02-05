@@ -5,7 +5,9 @@ This repository focuses on real-world data engineering use cases using Python, w
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+<img width="1536" height="1024" alt="python" src="https://github.com/user-attachments/assets/517b3c60-dd5d-4bf8-942e-91e940895882" />
 
 ## 🎯 Objective
 
